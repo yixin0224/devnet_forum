@@ -1,18 +1,18 @@
 {
   "DevNet_Forum_Participants": [
     {
-      "name": "Frank Tan",
-      "team": "GC-Lan",
-      "manager": "Jarod Zhu",
+      "name": "Yixin Xing",
+      "team": "JAPAN-Lan",
+      "manager": "Mina Cai",
       "location": "Dalian",
-      "blue-badge": true,
+      "blue-badge": false,
       "product": [
         {
           "name": "Catalyst",
-          "years": 7
+          "years": 5
         },
         {
-          "name": "SD-Access",
+          "name": "CATS",
           "years": 2
         }
       ],
